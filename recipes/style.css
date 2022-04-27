@@ -1,0 +1,29 @@
+.center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+
+h1{
+    font-family: "Tahoma", sans-serif;
+    font-size:70px;
+    color:brown;
+    font-weight:bold;
+}
+
+.head{
+    font-family: "Tahoma", sans-serif;
+    font-size: 30px;
+    color:brown;
+    font-weight:bold;
+}
+
+.ing{
+    color:blue;
+}
+
+.steak{
+    background-color: red;
+}
+
