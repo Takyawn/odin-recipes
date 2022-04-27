@@ -1,0 +1,22 @@
+h1 {
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.odin {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+li {
+    background-color: goldenrod;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size:30px;
+    line-height: 1.8;
+}
